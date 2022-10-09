@@ -339,3 +339,5 @@ C:\Users\İrem\Desktop\OdevNet5Project\WEB\obj\Debug\net5.0\WEB.pdb
 C:\Users\İrem\Desktop\OdevNet5Project\WEB\obj\Debug\net5.0\WEB.genruntimeconfig.cache
 C:\Users\İrem\Desktop\OdevNet5Project\WEB\obj\Debug\net5.0\ref\WEB.dll
 C:\Users\İrem\Desktop\OdevNet5Project\WEB\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\İrem\Desktop\OdevNet5Project\WEB\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\İrem\Desktop\OdevNet5Project\WEB\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Update.cshtml.g.cs
